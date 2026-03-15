@@ -70,5 +70,4 @@ Os projetos exploram conceitos como:
 
 ## Contato
 
-LinkedIn:  
-Email:
+Email: 7auan.dev@gmail.com
