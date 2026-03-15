@@ -25,21 +25,32 @@ Atuação em ambiente corporativo com sistemas ERP voltados para gestão finance
 
 ## Foco Atual
 
-Atualmente estou aprofundando meus conhecimentos em **Laravel**, com foco em desenvolvimento backend, organização de aplicações e boas práticas de engenharia de software.
+Atualmente estou aprofundando meus conhecimentos em **Laravel**, com foco em desenvolvimento backend, arquitetura de aplicações e boas práticas de engenharia de software.
 
-Como próximo passo na evolução da minha stack, pretendo iniciar estudos em **React** para complementar o desenvolvimento com interfaces modernas no frontend.
-
----
-
-## Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devtauan&show_icons=true&theme=dark)
+Como próximo passo na evolução da minha stack, pretendo iniciar estudos em **React**, ampliando também minhas capacidades no desenvolvimento frontend.
 
 ---
 
-## Linguagens mais utilizadas
+## Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtauan&layout=compact&theme=dark)
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devtauan&show_icons=true&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtauan&layout=compact&theme=dark"/>
+</p>
+
+---
+
+## Atividade
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=devtauan&theme=dark"/>
+</p>
+
+---
+
+## Gráfico de Contribuições
+
+[![Tauan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devtauan&theme=github-dark)](https://github.com/devtauan)
 
 ---
 
@@ -59,4 +70,5 @@ Os projetos exploram conceitos como:
 
 ## Contato
 
-Email: 7auan.dev@gmail.com
+LinkedIn:  
+Email:
